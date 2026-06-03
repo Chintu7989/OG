@@ -1,0 +1,31 @@
+#A1{
+    background-color: rgb(190, 7, 7);
+    width: 100px;
+    height: 40px;
+    color: lch(98.96% 0.01 296.81);
+    padding: 7px;
+    border: none;
+    margin-right: 20px;
+}
+#A2{
+    background-color: transparent;
+    border: 1px solid blue;
+    border-radius: 3px;
+    color: rgb(19, 9, 156);
+    width: 60px;
+    height: 40px;
+    border-color:rgb(10, 1, 128);
+    padding: 7px;
+    margin-right: 20px;
+}
+#A3{
+    background-color:rgb(35, 149, 202);
+    color:white;
+    border-radius: 20px;
+    border: none;
+    font-weight: 700;
+    width: 80px;
+    height: 40px;
+    border-color: azure;
+    padding: 7px;
+}
